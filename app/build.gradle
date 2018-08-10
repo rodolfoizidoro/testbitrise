@@ -10,8 +10,8 @@ android {
         applicationId "rodolfo.com.bitrise"
         minSdkVersion 19
         targetSdkVersion 26
-        versionCode 3
-        versionName "3.0"
+        versionCode 10
+        versionName "10.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
